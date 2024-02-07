@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/first-react-appgit/static/css/main.20796928.chunk.css",
+    "main.js": "/first-react-appgit/static/js/main.132a2354.chunk.js",
+    "main.js.map": "/first-react-appgit/static/js/main.132a2354.chunk.js.map",
+    "runtime-main.js": "/first-react-appgit/static/js/runtime-main.202ed48b.js",
+    "runtime-main.js.map": "/first-react-appgit/static/js/runtime-main.202ed48b.js.map",
+    "static/js/2.2edda431.chunk.js": "/first-react-appgit/static/js/2.2edda431.chunk.js",
+    "static/js/2.2edda431.chunk.js.map": "/first-react-appgit/static/js/2.2edda431.chunk.js.map",
+    "static/js/3.82afb7a3.chunk.js": "/first-react-appgit/static/js/3.82afb7a3.chunk.js",
+    "static/js/3.82afb7a3.chunk.js.map": "/first-react-appgit/static/js/3.82afb7a3.chunk.js.map",
+    "index.html": "/first-react-appgit/index.html",
+    "precache-manifest.a65506119c7107e221467b67965a8a14.js": "/first-react-appgit/precache-manifest.a65506119c7107e221467b67965a8a14.js",
+    "service-worker.js": "/first-react-appgit/service-worker.js",
+    "static/css/main.20796928.chunk.css.map": "/first-react-appgit/static/css/main.20796928.chunk.css.map",
+    "static/js/2.2edda431.chunk.js.LICENSE.txt": "/first-react-appgit/static/js/2.2edda431.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/first-react-appgit/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.202ed48b.js",
+    "static/js/2.2edda431.chunk.js",
+    "static/css/main.20796928.chunk.css",
+    "static/js/main.132a2354.chunk.js"
+  ]
+}
