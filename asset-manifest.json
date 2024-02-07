@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/first-react-appgit/static/css/main.20796928.chunk.css",
-    "main.js": "/first-react-appgit/static/js/main.80a96c66.chunk.js",
-    "main.js.map": "/first-react-appgit/static/js/main.80a96c66.chunk.js.map",
-    "runtime-main.js": "/first-react-appgit/static/js/runtime-main.cb698f2c.js",
-    "runtime-main.js.map": "/first-react-appgit/static/js/runtime-main.cb698f2c.js.map",
-    "static/js/2.2edda431.chunk.js": "/first-react-appgit/static/js/2.2edda431.chunk.js",
-    "static/js/2.2edda431.chunk.js.map": "/first-react-appgit/static/js/2.2edda431.chunk.js.map",
-    "static/js/3.f00e9902.chunk.js": "/first-react-appgit/static/js/3.f00e9902.chunk.js",
-    "static/js/3.f00e9902.chunk.js.map": "/first-react-appgit/static/js/3.f00e9902.chunk.js.map",
+    "main.css": "/first-react-appgit/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/first-react-appgit/static/js/main.3c9435a7.chunk.js",
+    "main.js.map": "/first-react-appgit/static/js/main.3c9435a7.chunk.js.map",
+    "runtime-main.js": "/first-react-appgit/static/js/runtime-main.202ed48b.js",
+    "runtime-main.js.map": "/first-react-appgit/static/js/runtime-main.202ed48b.js.map",
+    "static/js/2.bcc28277.chunk.js": "/first-react-appgit/static/js/2.bcc28277.chunk.js",
+    "static/js/2.bcc28277.chunk.js.map": "/first-react-appgit/static/js/2.bcc28277.chunk.js.map",
+    "static/js/3.82afb7a3.chunk.js": "/first-react-appgit/static/js/3.82afb7a3.chunk.js",
+    "static/js/3.82afb7a3.chunk.js.map": "/first-react-appgit/static/js/3.82afb7a3.chunk.js.map",
     "index.html": "/first-react-appgit/index.html",
-    "precache-manifest.d5a13896e8dd729d1b6e4a16b9f98bd6.js": "/first-react-appgit/precache-manifest.d5a13896e8dd729d1b6e4a16b9f98bd6.js",
+    "precache-manifest.55176826bc58bac78c29365712897011.js": "/first-react-appgit/precache-manifest.55176826bc58bac78c29365712897011.js",
     "service-worker.js": "/first-react-appgit/service-worker.js",
-    "static/css/main.20796928.chunk.css.map": "/first-react-appgit/static/css/main.20796928.chunk.css.map",
-    "static/js/2.2edda431.chunk.js.LICENSE.txt": "/first-react-appgit/static/js/2.2edda431.chunk.js.LICENSE.txt"
+    "static/css/main.435d5fe5.chunk.css.map": "/first-react-appgit/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.bcc28277.chunk.js.LICENSE.txt": "/first-react-appgit/static/js/2.bcc28277.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/first-react-appgit/static/media/logo.06e73328.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb698f2c.js",
-    "static/js/2.2edda431.chunk.js",
-    "static/css/main.20796928.chunk.css",
-    "static/js/main.80a96c66.chunk.js"
+    "static/js/runtime-main.202ed48b.js",
+    "static/js/2.bcc28277.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.3c9435a7.chunk.js"
   ]
 }
