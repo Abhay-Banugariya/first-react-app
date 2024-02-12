@@ -1,23 +1,23 @@
-import React, { useState } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import { Login } from './Login';
-import { Register } from "./Register";
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
+import Secondpage from './pages/Secondpage';
+import { useNavigate } from 'react-router-dom';
+import React from 'react';
 
 function App() {
-  const [currentForm, setCurrentForm] = useState('Login');
-
-  const toggleForm = (formName) => {
-    setCurrentForm(formName);
-  }
+  const navigate = useNavigate();
 
   return (
-    <div className="App">
-      {
-        currentForm === "Login" ? <Login onFormSwitch={toggleForm} /> : <Register onFormSwitch={toggleForm} />
-      }
-    </div>
+    <BrowserRouter>
+      <nav>
+        <button onClick={() => navigate('/home')}>Home</button>
+        <button onClick={() => navigate('/secondpage')}>Second Page</button>
+      </nav>
+      <Routes>
+        <Route path="/home" element={<Home />} />
+        <Route path="/secondpage" element={<Secondpage />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
-
 export default App;
